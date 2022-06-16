@@ -1,2 +1,2 @@
-# Weijie-Huang
+# Weijie
 This is a very cool project.
